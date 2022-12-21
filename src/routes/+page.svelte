@@ -24,7 +24,7 @@
 					> -->
 				</div>
 			</div>
-			<p class="absolute mt-4 text-center text-sm text-gray-700 lg:mt-0 lg:text-right z-10 top-5">
+			<p class="absolute mt-4 text-center text-sm text-gray-700 lg:mt-0 lg:text-right z-10 bottom-5">
 				<a href="{base}/privacy">View Privacy Policy</a>
 			</p>
 		</div>

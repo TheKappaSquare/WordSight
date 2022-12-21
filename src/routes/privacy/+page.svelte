@@ -1,20 +1,26 @@
+<script>
+	import { base } from '$app/paths';
+</script>
+
 <div class="flex">
 	<div class="bg-[#000000] grid place-items-center w-screen h-screen">
 		<div class="grid h-screen w-[90vw] px-4 bg-transparent place-content-center text-white">
+			<h2 class="text-slate-600"><a href="{base}/">Home</a></h2>
 			<h1 id="tracking-widest privacy-policy" class="font-bold pt-4 text-lg">Privacy Policy</h1>
 			<p>
 				The WordSight application as an Ad Supported application. This service is provided at no
 				cost and is intended for use as is.
 			</p>
-			<h2 id="information-collection-and-use" class="font-bold pt-4">Information Collection and Use</h2>
+			<h2 id="information-collection-and-use" class="font-bold pt-4">
+				Information Collection and Use
+			</h2>
+			<p>WordSight does not collect or store personal data.</p>
 			<p>
-				WordSight does not collect or store personal data. 
-			</p>
-			<p>The application is
-				available on Google Play Store and Google Play Store may collect some personal data. Please
-				see the privacy policy for Google Play Services here: <a
+				The application is available on Google Play Store and Google Play Store may collect some
+				personal data. Please see the privacy policy for Google Play Services here: <a
 					href="https://policies.google.com/privacy">https://policies.google.com/privacy</a
-				></p>
+				>
+			</p>
 			<p>
 				The application is also available on Apple App Store and AppStore may collect some personal
 				data. Please see the privacy policy for AppStore here: <a
@@ -44,13 +50,16 @@
 					<tr>
 						<td style="text-align: left">STORAGE</td>
 						<td style="text-align: center"
-							>To backup and restore the database (used to store details of words learnt everyday).<p>Note: Does not store the definitions of the words</p></td
+							>To backup and restore the database (used to store details of words learnt everyday).
+							<p>Note: Does not store the definitions of the words</p></td
 						>
 					</tr>
 				</tbody>
 			</table>
 
-			<h2 id="changes-to-this-privacy-policy" class="font-bold pt-4">Changes to This Privacy Policy</h2>
+			<h2 id="changes-to-this-privacy-policy" class="font-bold pt-4">
+				Changes to This Privacy Policy
+			</h2>
 			<p>
 				This Privacy Policy may be updated from time to time. Thus, you are advised to review this
 				page periodically for any changes.

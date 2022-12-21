@@ -1,6 +1,6 @@
 <script>
-	import { base } from "$app/paths";
-  </script>
+	import { base } from '$app/paths';
+</script>
 
 <div class="bg-[#000000] grid place-items-center w-screen h-screen">
 	<div class="">
@@ -27,7 +27,7 @@
 		</div>
 	</div>
 	<p class="absolute mt-4 text-center text-sm text-gray-500 lg:mt-0 lg:text-right z-10 bottom-10">
-	  <a href="{base}/privacy">View Privacy Policy</a>
+		<a href="{base}/privacy">View Privacy Policy</a>
 	</p>
 	<!-- <div class="bg-[#040303] hidden lg:grid w-screen">
 		<div class="grid text-white font-mono p-8 overflow-clip">

@@ -9,8 +9,8 @@
 				<img class="scale-50" src="./favicon.png" alt="" />
 			</div>
 			<div>
-				<div class="self-center font-mono text-5xl font-bold text-white">DEFINITIONS</div>
-				<div class="self-center font-mono text-5xl font-bold text-[#83fe78]">IN ONE CLICK.</div>
+				<div class="self-center font-mono text-4xl font-bold text-white">DEFINITIONS</div>
+				<div class="self-center font-mono text-4xl font-bold text-[#83fe78]">IN ONE CLICK.</div>
 			</div>
 			<div class="grid place-items-center p-5">
 				<div class="flex">
@@ -24,7 +24,7 @@
 					> -->
 				</div>
 			</div>
-			<p class="absolute mt-4 text-center text-sm text-gray-700 lg:mt-0 lg:text-right z-10 bottom-5">
+			<p class="absolute mt-4 text-center text-sm text-gray-700 lg:mt-0 lg:text-right z-10 top-5">
 				<a href="{base}/privacy">View Privacy Policy</a>
 			</p>
 		</div>

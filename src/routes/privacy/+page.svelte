@@ -2,11 +2,13 @@
 	import { base } from '$app/paths';
 </script>
 
-<div class="flex">
-	<div class="bg-[#000000] grid place-items-center w-screen h-screen">
-		<div class="grid h-screen w-[90vw] px-4 bg-transparent place-content-center text-white">
-			<h2 class="text-slate-600"><a href="{base}/">Home</a></h2>
-			<h1 id="tracking-widest privacy-policy" class="font-bold pt-4 text-lg">Privacy Policy</h1>
+<div class="flex bg-[#000000]  place-content-center">
+	<div class="grid h-screen">
+		<div class="grid bg-[#000000] p-5 place-content-center text-white">
+			<div class="grid place-items-center">
+				<a href="{base}/"><img class="scale-50" src="./favicon.png" alt="" /></a>
+			</div>
+			<h1 id="tracking-widest privacy-policy" class="font-bold text-center pt-4 text-lg">Privacy Policy</h1>
 			<p>
 				The WordSight application as an Ad Supported application. This service is provided at no
 				cost and is intended for use as is.

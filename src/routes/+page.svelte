@@ -2,9 +2,9 @@
 	import { base } from '$app/paths';
 </script>
 
-<div class="bg-[#000000] grid place-items-center w-screen h-screen">
+<div class="bg-[#000000] grid place-items-center h-full w-full">
 	<div class="">
-		<div class="flex-col p-10 grid place-items-center">
+		<div class="flex-col p-10 grid place-items-center h-screen w-screen">
 			<div class="grid place-items-center">
 				<img class="scale-50" src="./favicon.png" alt="" />
 			</div>
@@ -24,11 +24,11 @@
 					> -->
 				</div>
 			</div>
+			<p class="absolute mt-4 text-center text-sm text-gray-700 lg:mt-0 lg:text-right z-10 top-5">
+				<a href="{base}/privacy">View Privacy Policy</a>
+			</p>
 		</div>
 	</div>
-	<p class="absolute mt-4 text-center text-sm text-gray-500 lg:mt-0 lg:text-right z-10 bottom-10">
-		<a href="{base}/privacy">View Privacy Policy</a>
-	</p>
 	<!-- <div class="bg-[#040303] hidden lg:grid w-screen">
 		<div class="grid text-white font-mono p-8 overflow-clip">
 			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eu purus posuere, consectetur

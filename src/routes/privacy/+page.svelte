@@ -2,6 +2,9 @@
 	import { base } from '$app/paths';
 </script>
 
+<svelte:head>
+	<title>WordSight - Privacy</title>
+</svelte:head>
 <div class="flex bg-[#000000]  place-content-center">
 	<div class="grid h-screen">
 		<div class="grid bg-[#000000] p-5 place-content-center text-white">

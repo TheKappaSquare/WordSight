@@ -16,15 +16,15 @@
 				<div class="self-center font-mono text-4xl font-bold text-[#83fe78]">IN ONE CLICK.</div>
 			</div>
 			<div class="grid place-items-center p-5">
-				<div class="flex">
+				<div class="sm:flex md:flex-row lg:flex-row">
 					<a
 						href="https://play.google.com/store/apps/details?id=com.kappasquare.wordsight&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"
-						><img class="w-60 pt-20" alt="Get it on Google Play" src="./google-badge.png" /></a
+						><img class="w-60 sm:pt-10 md:pt-20 lg:pt-20" alt="Get it on Google Play" src="./google-badge.png" /></a
 					>
-					<!-- <a
-						href="https://play.google.com/store/apps/details?id=com.kappasquare.wordsight&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"
-						><img class="w-60 pt-20" alt="Get it on AppStore" src="./apple-badge.png" /></a
-					> -->
+					<a
+						href="https://apps.apple.com/app/wordsight/id6444799091"
+						><img class="w-60 sm:pt-10 md:pt-20 lg:pt-20" alt="Get it on AppStore" src="./apple-badge.png" /></a
+					>
 				</div>
 			</div>
 			<p class="absolute mt-4 text-center text-sm text-gray-700 lg:mt-0 lg:text-right z-10 top-5">
